@@ -17,7 +17,7 @@ This Python application leverages speech recognition and text-to-speech technolo
 1. **Install Dependencies:**
 
    ```bash
-   pip install speech_recognition pyttsx3 openai python-dotenv
+   pip install -r requirements.txt
    ```
 2. **Create a `.env` File:**
 
